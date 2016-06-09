@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1052229630728",
+    "firebase_url": "https://mealtracker-f0cf6.firebaseio.com",
+    "project_id": "mealtracker-f0cf6",
+    "storage_bucket": "mealtracker-f0cf6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1052229630728:android:dac63c668f44f63b",
+        "android_client_info": {
+          "package_name": "com.app.ismail.foodtracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1052229630728-291t5rtif97rhvpugmdhg8sbiec4gm06.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxQII9Tjl_s9IdUgVqvzQRDjwD1jwEkcU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
